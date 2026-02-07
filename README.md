@@ -118,9 +118,9 @@ Supports forecasting, strategic planning, and early detection of performance dro
 ---
 
 ## 📂 Database CSV Files
--(dim_customers.csv)
--(dim_products.csv)
--(fact_sales.csv)
+- (dim_customers.csv) 
+- (dim_products.csv)
+- (fact_sales.csv)
 ---
 
 ## 🚀 Why This Project Matters
