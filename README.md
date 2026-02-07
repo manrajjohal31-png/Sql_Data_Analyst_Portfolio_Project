@@ -40,6 +40,22 @@ It focuses on performance tracking, customer segmentation, and complex aggregati
 
 ---
 
+## 📁 SQL Queries
+All SQL analyses are available as executable `.sql` files inside the `sql/` directory.
+Each file is documented with business objectives and SQL techniques used.
+## 🧠 Analysis Overview
+
+| Analysis | SQL File |
+|--------|---------|
+| Monthly Sales & Running Total | [01_monthly_sales_running_total.sql](sql/01_monthly_sales_running_total.sql) |
+|  Yearly Product Performance   | [02_yearly_product_performance.sql](sql/02_yearly_product_performance.sql) |
+|     Category Contribution     | [03_category_contribution.sql](sql/03_category_contribution.sql) |
+|     Customer Segmentation     | [04_customer_segmentation.sql](sql/04_customer_segmentation.sql) |
+|     Product Report (CTE)      | [05_product_report_cte.sql](sql/05_product_report_cte.sql) |
+|     Sales Trend & Growth      | [06_sales_trend_growth.sql](sql/06_sales_trend_growth.sql) |
+
+Visual screenshots of queries are also available in Project Highlights for quick reference.
+
 ## 📊 Project Highlights
 
 ### 1️⃣ Monthly Sales & Running Total
