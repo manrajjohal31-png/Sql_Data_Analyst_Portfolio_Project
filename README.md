@@ -117,12 +117,10 @@ Supports forecasting, strategic planning, and early detection of performance dro
 
 ---
 
-## 📂 Repository Structure
-- `queries_png/` → SQL queries as visual screenshots
-- `sql_queries/` → Executable SQL scripts
-- `sample_schema.sql` → Sample database schema
-- `README.md` → Project documentation
-
+## 📂 Database CSV Files
+-(dim_customers.csv)
+-(dim_products.csv)
+-(fact_sales.csv)
 ---
 
 ## 🚀 Why This Project Matters
