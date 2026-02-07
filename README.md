@@ -53,7 +53,6 @@ Each file is documented with business objectives and SQL techniques used.
 |     Customer Segmentation     | [04_customer_segmentation.sql](04_Customer_Segmentation.sql) |
 |     Product Report (CTE)      | [05_product_report_cte.sql](05_Customers_product_report.sql) |
 |     Sales Trend & Growth      | [06_sales_trend_growth.sql](06_Sales_trend_growth_report.sql) |
-|     Sales Trend & Growth      | [06_sales_trend_growth.sql](dim_customers.csv ) |
 
 
 Visual screenshots of queries are also available in Project Highlights for quick reference.
@@ -120,9 +119,9 @@ Supports forecasting, strategic planning, and early detection of performance dro
 ---
 
 ## 📂 Database CSV Files
-- dim_customers.csv 
-- dim_products.csv
-- fact_sales.csv
+- [dim_customers.csv](dim_customers.csv ) 
+- [dim_products.csv](dim_products.csv ) 
+- [fact_sales.csv](fact_sales.csv ) 
 ---
 
 ## 🚀 Why This Project Matters
