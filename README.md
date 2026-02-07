@@ -50,7 +50,7 @@ Each file is documented with business objectives and SQL techniques used.
 | Monthly Sales & Running Total | [01_monthly_sales_running_total.sql](01_Monthly_sales_running_total.sql) |
 |  Yearly Product Performance   | [02_yearly_product_performance.sql](02_Yearly_product_performance_analysis.sql) |
 |     Category Contribution     | [03_category_contribution.sql](03_Category_contribution.sql) |
-|     Customer Segmentation     | [04_customer_segmentation.sql](04_customer_segmentation.sql) |
+|     Customer Segmentation     | [04_customer_segmentation.sql](04_Customer_Segmentation.sql) |
 |     Product Report (CTE)      | [05_product_report_cte.sql](05_Customers_product_report.sql) |
 |     Sales Trend & Growth      | [06_sales_trend_growth.sql](06_Sales_trend_growth_report.sql) |
 
