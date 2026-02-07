@@ -47,7 +47,7 @@ Each file is documented with business objectives and SQL techniques used.
 
 | Analysis | SQL File |
 |--------|---------|
-| Monthly Sales & Running Total | [01_monthly_sales_running_total.sql](sql/01_monthly_sales_running_total.sql) |
+| Monthly Sales & Running Total | [01_monthly_sales_running_total.sql](./01_monthly_sales_running_total.sql) |
 |  Yearly Product Performance   | [02_yearly_product_performance.sql](sql/02_yearly_product_performance.sql) |
 |     Category Contribution     | [03_category_contribution.sql](sql/03_category_contribution.sql) |
 |     Customer Segmentation     | [04_customer_segmentation.sql](sql/04_customer_segmentation.sql) |
