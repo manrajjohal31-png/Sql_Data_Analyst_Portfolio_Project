@@ -1,4 +1,3 @@
-create view  gold.report_customers as
 with base_query as (
 select f.order_number,f.product_key,
        f.order_date,f.sales_amount,f.quantity,
@@ -34,3 +33,4 @@ select customer_key,customer_number,
        total_quantity,total_products,
        last_order_date,lifespan
 from customer_aggregation
+
